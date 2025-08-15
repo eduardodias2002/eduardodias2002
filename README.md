@@ -3,7 +3,8 @@
 I'm an Analysis and Systems Development Student. I'm an aspiring to Desktop, Web and Game Developer to some extent.
 
 Currently, I my skills are:
-[![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
+
+[![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 
 I'm passionate about graphics, creative tools, and lightweight software.
 
