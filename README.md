@@ -9,5 +9,5 @@ Currently, I my skills are:
 I'm passionate about graphics, creative tools, and lightweight software.
 
 ## Current project
-- **NovaBrush** - A lightweight, modular general purpose image and pixel editor built in C#.
+**NovaBrush** - A lightweight, modular general purpose image and pixel editor built in C#.
 - Early features: opens PNG file format, file validation, zooming/panning/canvas.
