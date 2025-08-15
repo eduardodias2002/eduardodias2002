@@ -4,7 +4,7 @@ I'm an Analysis and Systems Development Student. I'm an aspiring to Desktop, Web
 
 Currently, I my skills are:
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)" width="height 48"> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="height 48"> 
 
 I'm passionate about graphics, creative tools, and lightweight software.
 
