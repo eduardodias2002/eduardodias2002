@@ -2,7 +2,8 @@
 
 I'm an Analysis and Systems Development Student. I'm an aspiring to Desktop, Web and Game Developer to some extent.
 
-Currently, I know: HTML, CSS, Javascript,  C#, Java, C, GDScript, Wordpress and Blender.
+Currently, I my skills are:
+[![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
 
 I'm passionate about graphics, creative tools, and lightweight software.
 
