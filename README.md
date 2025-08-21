@@ -1,6 +1,6 @@
 # Hello, Eduardo here!
 
-I'm a Systems Analysis and Development student with a preference to Desktop, Web and even Game Development to some extent.
+I'm a Systems Analysis and Development student with a preference for Desktop, Web and even Game Development to some extent.
 
 Currently, my skills are:
 
