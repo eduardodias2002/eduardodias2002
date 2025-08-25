@@ -14,7 +14,7 @@ I'm passionate about graphics, creative tools, and lightweight open source softw
 - Optimized memory usage: 96MB RAM on 4K images
 - Modular architecture: tool system (ITool), global state (Globals), real-time status feedback
 - Supports file open/save, pixel-level rendering
-TO-DO:
+### TO-DO:
 - Undo/Redo
 
 By the way, I have a [personal page](https://eduardodias2002.github.io)!
