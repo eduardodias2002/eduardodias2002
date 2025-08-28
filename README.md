@@ -1,7 +1,7 @@
 ---
 
 # 👋 Hello! I'm Eduardo  
-Systems Analyst & Developer college student building lightweight projects.
+Systems Analyst & Developer building lightweight projects.
 
 
 
