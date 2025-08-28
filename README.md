@@ -66,6 +66,6 @@ I love desktop apps, open source, and pixels.
 ##  I'm Passionate About:
 - 2D and 3D Graphics 
 - Lightweight, open-source creative tools
-- Game development with Unity, Godot Engine and LÖVE 
+- Game development with [Unity](https://unity.com), [Godot Engine](https://godotengine.org) and [LÖVE](https://love2d.org)  
 
 ---
