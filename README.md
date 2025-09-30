@@ -42,7 +42,7 @@ I love desktop apps, open source, and pixels.
 ### 📈 Performance
 | Image Size | NovaBrush | Paint.NET |
 |-----------|----------|----------------|
-| 4K (3840×2160) | ~110 MB | ~205 MB |
+| 4K (3840x2160) | ~110 MB | ~205 MB |
 
 ### 📂 Architecture
 - `ITool` – Extensible brush system
