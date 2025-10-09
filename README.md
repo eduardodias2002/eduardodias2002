@@ -58,9 +58,9 @@ I love desktop apps, open source, and pixels.
 ---
 
 ##  Check It Out
-👉 [NovaBrush on GitHub](https://github.com/eduardodias2002/NovaBrush_2-brushsys)  
+👉 [NovaBrush on GitHub](https://github.com/eduardodias2002/NovaBrush_2-brushsys)
 🌐 [My Personal Page](https://eduardodias2002.github.io)
-🔴🔵[Graviball Game, Live on Vercel](https://graviball.vercel.app)
+🔴🔵 [Graviball Game, Live on Vercel](https://graviball.vercel.app)
 
 ---
 
