@@ -1,6 +1,5 @@
 ---
 
-# 👋 Hello! I'm Eduardo  
 Systems Analyst & Developer building lightweight projects.
 
 ---
