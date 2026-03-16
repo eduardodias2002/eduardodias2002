@@ -1,5 +1,3 @@
----
-
 Systems Analyst & Developer building lightweight projects.
 
 ---
